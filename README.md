@@ -1,2 +1,2 @@
-# insta-pagcop
-página de login do instagram recriada
+# instagram-copy
+página de login do Instagram web
